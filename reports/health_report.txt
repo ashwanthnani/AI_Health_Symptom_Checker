@@ -1,0 +1,22 @@
+
+===================================
+      AI HEALTH REPORT
+===================================
+
+Symptoms:
+[0, 0, 0, 0, 0]
+
+Predicted Disease:
+Migraine
+
+Confidence Score:
+100.0%
+
+AI Recommendation:
+Take rest and avoid bright lights.
+
+Disclaimer:
+This project is for educational purposes only.
+Please consult a healthcare professional for medical advice.
+
+===================================

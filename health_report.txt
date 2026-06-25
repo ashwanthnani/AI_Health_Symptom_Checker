@@ -1,0 +1,22 @@
+
+===================================
+      AI HEALTH REPORT
+===================================
+
+Symptoms:
+[1, 1, 1, 0, 0]
+
+Predicted Disease:
+Flu
+
+Confidence Score:
+100.0%
+
+AI Recommendation:
+Drink plenty of water and take proper rest.
+
+Disclaimer:
+This project is for educational purposes only.
+Please consult a healthcare professional for medical advice.
+
+===================================

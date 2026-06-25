@@ -1,0 +1,31 @@
+Fever,Cough,Headache,BodyPain,Fatigue,Disease
+1,1,1,1,1,Flu
+1,1,0,0,0,Cold
+1,0,1,1,1,Dengue
+1,0,1,0,1,Malaria
+0,0,1,0,0,Migraine
+1,0,0,1,0,Typhoid
+1,1,1,0,1,Covid19
+0,1,0,0,0,Allergy
+1,0,0,0,1,Viral Fever
+0,0,1,1,0,Stress
+1,1,0,1,1,Flu
+1,1,0,1,0,Cold
+1,0,1,1,0,Dengue
+1,0,1,0,0,Malaria
+0,0,1,0,1,Migraine
+1,0,0,1,1,Typhoid
+1,1,1,1,0,Covid19
+0,1,0,1,0,Allergy
+1,0,0,0,0,Viral Fever
+0,0,1,1,1,Stress
+1,1,1,0,0,Flu
+1,1,0,0,1,Cold
+1,0,1,1,1,Dengue
+1,0,1,0,1,Malaria
+0,0,1,0,0,Migraine
+1,0,0,1,0,Typhoid
+1,1,1,0,1,Covid19
+0,1,0,0,1,Allergy
+1,0,0,0,1,Viral Fever
+0,0,1,1,0,Stress
